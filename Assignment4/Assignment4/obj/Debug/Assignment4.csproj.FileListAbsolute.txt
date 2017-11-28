@@ -1,0 +1,9 @@
+C:\Users\toman\OneDrive\Dokument\GitHub\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\toman\OneDrive\Dokument\GitHub\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\toman\OneDrive\Dokument\GitHub\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\toman\OneDrive\Dokument\GitHub\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\toman\OneDrive\Dokument\GitHub\Assignment4\Assignment4\obj\Debug\Assignment4.Form1.resources
+C:\Users\toman\OneDrive\Dokument\GitHub\Assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\toman\OneDrive\Dokument\GitHub\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.Cache
+C:\Users\toman\OneDrive\Dokument\GitHub\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\toman\OneDrive\Dokument\GitHub\Assignment4\Assignment4\obj\Debug\Assignment4.pdb

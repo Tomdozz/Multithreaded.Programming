@@ -1,0 +1,7 @@
+When you change a color theme.
+text in the IDE reverts to the default or previously customized fonts and sizes.
+If you have Visual Studio Professional.
+Visual Studio Premium.
+or Visual Studio Ultimate.
+you can install additional predefined color themes and create your own by downloading and installing the Visual Studio 2013 Color Theme Editor.
+This option sets high contrast for all applications and UI on the current computer.

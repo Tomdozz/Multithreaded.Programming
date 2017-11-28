@@ -1,0 +1,18 @@
+c:\users\toman\documents\visual studio 2015\Projects\assignment2\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\toman\documents\visual studio 2015\Projects\assignment2\assignment2\bin\Debug\assignment2.exe
+C:\Users\toman\documents\visual studio 2015\Projects\assignment2\assignment2\bin\Debug\assignment2.pdb
+C:\Users\toman\documents\visual studio 2015\Projects\assignment2\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
+C:\Users\toman\documents\visual studio 2015\Projects\assignment2\assignment2\obj\Debug\assignment2.Form1.resources
+C:\Users\toman\documents\visual studio 2015\Projects\assignment2\assignment2\obj\Debug\assignment2.Properties.Resources.resources
+C:\Users\toman\documents\visual studio 2015\Projects\assignment2\assignment2\obj\Debug\assignment2.csproj.GenerateResource.Cache
+C:\Users\toman\documents\visual studio 2015\Projects\assignment2\assignment2\obj\Debug\assignment2.exe
+C:\Users\toman\documents\visual studio 2015\Projects\assignment2\assignment2\obj\Debug\assignment2.pdb
+C:\Users\Tom\Desktop\assignment2\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\Tom\Desktop\assignment2\assignment2\obj\Debug\assignment2.exe
+C:\Users\Tom\Desktop\assignment2\assignment2\obj\Debug\assignment2.pdb
+C:\Users\Tom\Desktop\assignment2\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\assignment2\assignment2\obj\Debug\assignment2.Form1.resources
+C:\Users\Tom\Desktop\assignment2\assignment2\obj\Debug\assignment2.Properties.Resources.resources
+C:\Users\Tom\Desktop\assignment2\assignment2\obj\Debug\assignment2.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\assignment2\assignment2\bin\Debug\assignment2.exe
+C:\Users\Tom\Desktop\assignment2\assignment2\bin\Debug\assignment2.pdb
